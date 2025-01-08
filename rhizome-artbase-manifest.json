@@ -4,7 +4,8 @@
         "name": "Rhizome Artbase",
         "root": "https://artbase.rhizome.org/wiki/",
         "main_page": "https://artbase.rhizome.org/wiki/Main_Page",
-        "api": "https://artbase.rhizome.org/w/api.php"
+        "api": "https://artbase.rhizome.org/w/api.php",
+        "mandatoryMediaInfoPropertyIds": "P7482, P170, P6216"
     },
     "wikibase": {
         "site_iri": "http://artbase.rhizome.org/entity/",
