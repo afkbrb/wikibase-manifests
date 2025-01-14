@@ -4,8 +4,7 @@
     "name": "FactGrid",
     "root": "https://database.factgrid.de/wiki/",
     "main_page": "https://database.factgrid.de/wiki/Main_Page",
-    "api": "https://database.factgrid.de/w/api.php",
-    "mandatoryMediaInfoPropertyIds": "P7482, P170, P6216"
+    "api": "https://database.factgrid.de/w/api.php"
   },
   "wikibase": {
     "site_iri": "https://database.factgrid.de/entity/",

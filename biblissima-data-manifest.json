@@ -4,8 +4,7 @@
         "name": "Biblissima Authority Files",
         "root": "https://data.biblissima.fr/w/",
         "main_page": "https://data.biblissima.fr/w/Accueil",
-        "api": "https://data.biblissima.fr/w/api.php",
-        "mandatoryMediaInfoPropertyIds": "P7482, P170, P6216"
+        "api": "https://data.biblissima.fr/w/api.php"
     },
     "wikibase": {
         "site_iri": "https://data.biblissima.fr/entity/",
